@@ -1,2 +1,2 @@
 # SARPI
-SARPI
+STELLA
